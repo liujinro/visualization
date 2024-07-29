@@ -10,11 +10,10 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-     Reference: https://public.tableau.com/app/profile/francisco8181/viz/WealthManagement_17210375097540/Overview
+       Good Example:
+       Reference: https://public.tableau.com/app/profile/francisco8181/viz/WealthManagement_17210375097540/Overview
 
-     Good Example:
-
-     Analyze:
+       Analyze:
      According to the knowledge I've gained from my visualization class, I will analyze the graph from various perspectives. Then, I will evaluate whether the graph effectively serves the customer's needs
 
      Customization:
@@ -71,14 +70,11 @@
      
      Provenance Rhetoric:
      1. Lack of Trustworthiness: The absence of data sources and methodology reduces the trustworthiness of the visualization.
-    
-
-
 
       ```
     - How could this data visualization have been improved?  
       ```
-     To transform this pictorial percentage chart into a more effective and informative visualization, consider the following improvements:
+      To transform this pictorial percentage chart into a more effective and informative visualization, consider the following improvements:
 
      1. Customization: Add a Legend:
      - Include a legend or explanatory text that clarifies what the 75% represents. For example, if it represents a survey result, it should be stated explicitly.
@@ -105,6 +101,7 @@
      - Ensure the visualization accurately represents the data without exaggeration.
      10. Improve Provenance Rhetoric:
      - By including data sources and explanations, the visualization becomes more trustworthy and credible. This encourages viewers to trust the information presented.
+     
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
