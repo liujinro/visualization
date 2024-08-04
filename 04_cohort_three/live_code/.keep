@@ -34,3 +34,34 @@ Rational Appeal: The diagram provides a detailed, factual representation of how 
 Moral Appeal: By highlighting the cramped and brutal conditions, the diagram appeals to the audience's sense of justice and morality, emphasizing the ethical imperative to end the slave trade.
 
 Emotional Appeal: The visual impact of seeing how tightly people were packed evokes strong emotional reactions, such as empathy and outrage, strengthening the call for abolition.
+
+# Activity: Female Research
+
+Bar Graph (Left):
+Description: This bar graph shows the mean student ratings for actual and perceived male and female instructors.
+Function: It highlights the difference in ratings based on the gender of the instructor.
+Pros:
+Easy to interpret.
+Clearly shows numerical differences.
+Cons:
+Limited to predefined categories.
+Doesn't provide detailed context.
+Dot Plot (Right):
+Description: This dot plot visualizes the use of gendered language in teacher reviews across different disciplines.
+Function: It allows users to explore the frequency of gender-specific terms.
+Pros:
+Interactive and detailed.
+Shows nuanced data.
+Cons:
+Can be overwhelming.
+Requires more effort to interpret.
+
+# Activity: Types of changes
+Types of Changes in Dynamic Data Visualization (Gendered Language in Teacher Reviews)
+Types of Changes: When interacting with this dynamic data visualization, users can input different search terms, filter by positive or negative reviews, and see changes in the frequency and context of gendered language across various disciplines.
+
+Spatial and Retinal Elements:
+
+Constant: The overall layout, including the axis, labels, and color scheme.
+Change: The specific data points and text displayed based on user inputs and filters.
+Redesign Considerations: If redesigning, one might add more interactive elements like tooltips for detailed insights or a side-by-side comparison feature to enhance usability and comprehension, depending on the specific needs of the users and the context of the analysis.
